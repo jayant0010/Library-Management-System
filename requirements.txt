@@ -1,0 +1,9 @@
+import time
+import re
+import sys
+
+Run makefile : make install
+
+Run program : python3 gatorLibrary.py <filename>
+
+Note: this code has been tested on thunder.cise.ufl.edu and it runs fine without the need for installation of any dependencies.
